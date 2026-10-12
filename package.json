@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "pg": "^8.13.0"
+  },
+  "allowScripts": {
+    "bcrypt@6.0.0": true
+  }
+}
